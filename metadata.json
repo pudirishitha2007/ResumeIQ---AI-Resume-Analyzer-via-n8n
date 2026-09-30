@@ -1,0 +1,6 @@
+{
+  "name": "ResumeIQ - AI Resume Analyzer via n8n",
+  "description": "Smart AI-powered resume analysis and ATS scoring workflow powered by n8n cloud automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
